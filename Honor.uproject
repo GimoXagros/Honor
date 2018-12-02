@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9809DFEE-4978-A20D-4EDD-BCA784EA291D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Honor",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
